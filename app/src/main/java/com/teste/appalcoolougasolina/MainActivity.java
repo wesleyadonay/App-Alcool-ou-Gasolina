@@ -21,6 +21,8 @@ public class MainActivity extends AppCompatActivity {
         editPrecoAlcool = findViewById(R.id.editPrecoAlcool);
         editPrecoGasolina = findViewById(R.id.editPrecoGasolina);
         textResultado = findViewById(R.id.textResultado);
+
+
     }
 
 
